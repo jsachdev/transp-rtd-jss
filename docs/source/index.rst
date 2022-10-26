@@ -12,16 +12,16 @@ Other useful TRANSP related websites:
 * `TRANSP help <https://w3.pppl.gov/~pshare/help/transp.htm>`_
 
 
-Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.
-
 .. note::
 
-   This project is under active development.
+   This project (and this documentation in particular) is under active development.
 
 Contents
 --------
 
 .. toctree::
 
+   access
    usage
-   api
+   reference
+
