@@ -17,7 +17,7 @@ Contents
 
 .. toctree::
 
+   about
+   releases
    access
-   usage
    reference
-
